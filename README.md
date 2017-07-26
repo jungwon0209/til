@@ -5,7 +5,8 @@
 4. [0720](./README/0720.md) CSS정리    
 5. [0721](./README/0721.md) 컴퓨터 공학 기초.  
 6. [0724](./README/0724.md) CSS정리  
-7. [0725](./README/0725.md) CSS정리
+7. - [0725_1](./README/0725.md) CSS정리
+   - [0725_2](./README/Blog1/nudgeBlog.html) CSS실습 
 8. - [0726_1](./README/Blog/Blog.html) 미니 헤커톤 블로그 만들기 HTML files  
    -  [0726_2](./README/Blog/style.css) 미니 헤커톤 블로그 만들기 CSS files  
 9. [0727](./README/0725.md)
