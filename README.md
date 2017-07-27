@@ -10,7 +10,7 @@
 8. - [0726_1](./README/Blog/Blog.html) 미니 헤커톤 블로그 만들기 HTML files  
    -  [0726_2](./README/Blog/style.css) 미니 헤커톤 블로그 만들기 CSS files  
 9. - [0727](./README/0727.md) Bootstrap 정리
-   - [0727_1](./README/BootstrapGrid.html) 부트스트랩 반응형 웹페이지
-   - [0727_2](./README/Gridbasic.html) 12 Divided Column 웹페이지
-   - [0727_3](./README/BootstrapUse.html) 부트스트랩을 이용한 모바일 반응형 웹페이지(오류해결중)
+   - [0727_1](./README/BootstrapGrid/BootstrapGrid.html) 부트스트랩 반응형 웹페이지
+   - [0727_2](./README/BootstrapGrid/Gridbasic.html) 12 Divided Column 웹페이지
+   - [0727_3](./README/BootstrapGrid/BootstrapUse.html) 부트스트랩을 이용한 모바일 반응형 웹페이지(오류해결중)
    
