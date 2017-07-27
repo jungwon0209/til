@@ -5,8 +5,12 @@
 4. [0720](./README/0720.md) CSS정리    
 5. [0721](./README/0721.md) 컴퓨터 공학 기초.  
 6. [0724](./README/0724.md) CSS정리  
-7. - [0725_1](./README/0725.md) CSS정리
-   - [0725_2](./README/Blog1/nudgeBlog.html) CSS실습 
+7. - [0725](./README/0725.md) CSS정리
+   - [0725_1](./README/Blog1/nudgeBlog.html) CSS실습 
 8. - [0726_1](./README/Blog/Blog.html) 미니 헤커톤 블로그 만들기 HTML files  
    -  [0726_2](./README/Blog/style.css) 미니 헤커톤 블로그 만들기 CSS files  
-9. [0727](./README/0725.md)
+9. - [0727](./README/0727.md) Bootstrap 정리
+   - [0727_1](./README/BootstrapGrid.html) 부트스트랩 반응형 웹페이지
+   - [0727_2](./README/Gridbasic.html) 12 Divided Column 웹페이지
+   - [0727_3](./README/BootstrapUse.html) 부트스트랩을 이용한 모바일 반응형 웹페이지(오류해결중)
+   
